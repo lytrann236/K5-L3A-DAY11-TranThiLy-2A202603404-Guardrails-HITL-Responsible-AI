@@ -1,4 +1,7 @@
 # Day 11 — Controlled Agent Security (2026)
+**Học viên:** Trần Thị Lý — MSSV: 2A202603404 — Lớp L3A
+
+**Cách chạy nhanh:** `python src/main.py --part 3` (phòng thủ → `outputs/results.json`) · `python src/main.py --part 4` (tấn công → `outputs/attack_results.json`) · `python scripts/grade.py --submission-dir . --out outputs/grade_report.json`
 
 > 👤 **Hình thức:** bài tập **cá nhân** (1 người / 1 MSSV).  
 > 🎯 **Mục tiêu:** đóng vai **Blue Team** để học cách xây Guardrails phòng thủ, rồi đóng vai **Red Team** để tấn công agent **Red** hoặc **Red Advance**.  
